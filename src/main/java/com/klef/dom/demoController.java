@@ -1,4 +1,4 @@
-package com.klef.demo;
+package com.klef.dom;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
